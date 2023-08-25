@@ -54,4 +54,5 @@ h1 h2 h3 {
 
 .secao-conteudo span {
     border-left: 1px solid #000000;
+    padding-left: 10px;
 }
