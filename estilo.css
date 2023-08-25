@@ -1,0 +1,54 @@
+.secao-topo {
+    height: 25px;
+    font-weight: bold;
+}
+
+div {
+    font-family: Tahoma;
+}
+
+.secao-background-capa {
+    background-image: url("img/capa.jpg");
+    background-size: cover;
+    min-height: 500px;
+}
+
+.secao-largura-limitada {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.secao-img {
+    width: 250px;
+    height: 180px;
+}
+
+h1 h2 h3 {
+    margin: 0;
+}
+
+.secao-paralax {
+    text-align: center;
+    background-image: url("img/fundo.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    
+}
+
+.secao-paralax h3{
+    background-color: bisque;
+    border-radius: 12.5px;
+    line-height: 25px;
+    width: 150px;
+    margin: 0 auto;
+    
+}
+
+
+.secao-capa-conteudo {
+    line-height: 15px;
+    padding-top: 50px;
+    text-align: right;
+}
