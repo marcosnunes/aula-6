@@ -46,9 +46,12 @@ h1 h2 h3 {
     
 }
 
-
 .secao-capa-conteudo {
     line-height: 15px;
     padding-top: 50px;
     text-align: right;
+}
+
+.secao-conteudo span {
+    border-left: 1px;
 }
